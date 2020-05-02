@@ -2,7 +2,7 @@
 
 C'est un programme qui va aider les profs à la gestion des présentations des étudiants, avec plein de fonctionnalités, comme la liste suivante montre:
 
-![](imgs/1.jpg)
+![](imgs/1.JPG)
 
 Ce programme utilise les base de la language C car c'est mon projet du module "Programmation en language C" de la tr
 Mon projet d'informatique au S3 à l'École Nationale des Sciences Appliquées de Khouribga (ENSAKH), année universitaire 2019/2020.
