@@ -1,0 +1,16 @@
+1 abortion
+2 alcohol
+3 animals
+4 college
+5 communication
+6 family
+7 friends
+8 fashion
+9 history
+10 internet
+11 immigration
+12 language
+13 literature
+14 media
+15 music
+16 cinema

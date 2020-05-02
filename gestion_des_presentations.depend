@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1576853648 source:e:\format\desktop\hope\c\gestion_des_presentations\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<conio.h>
+
+1576502987 e:\format\desktop\hope\c\gestion_des_presentations\main.h
+
+1576850773 source:e:\format\desktop\hope\c\gestion_des_presentations\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"main.h"
+	"fonctions.h"
+
+1576672644 e:\format\desktop\hope\c\gestion_des_presentations\fonctions.h
+
+1576329882 source:e:\format\desktop\hope\c\gestion_des_presentations\resources.rc
+
+1578708759 source:c:\users\4ym4n3\desktop\projet info s3 gestion des presentations\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"main.h"
+	"fonctions.h"
+
+1576502987 c:\users\4ym4n3\desktop\projet info s3 gestion des presentations\main.h
+
+1576672644 c:\users\4ym4n3\desktop\projet info s3 gestion des presentations\fonctions.h
+
+1578790128 source:c:\users\4ym4n3\desktop\projet info s3 gestion des presentations\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<conio.h>
+
+1576329882 source:c:\users\4ym4n3\desktop\projet info s3 gestion des presentations\resources.rc
+
